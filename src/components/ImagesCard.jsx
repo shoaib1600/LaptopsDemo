@@ -1,6 +1,5 @@
 import React from 'react'
 import styles from './css/Images.module.css'
-import image from './Images'
 
 export default function ImagesCard({image}) {
   return (
